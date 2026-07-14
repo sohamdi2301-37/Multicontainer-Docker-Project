@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend Application",
+  "scripts": {
+    "build": "mkdir -p dist && echo '<h1>Hello from your Dockerized Frontend!</h1>' > dist/index.html"
+  },
+  "dependencies": {}
+}
